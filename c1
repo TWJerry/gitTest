@@ -1,12 +1,12 @@
-adadad
-dlajljdlajdal
-adjaldja
-adjaljdla
+1. sudo chmod -R 777 /usr/local/openfire/bin  
+a：sudo su
 
+b： cd /usr/local/openfire/bin
 
-SsSs
-adadad
-adada
-adad
+c：export JAVA_HOME=`/usr/libexec/java_home`
 
-adadadadadadad
+d：echo $JAVA_HOME /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home
+
+e:   cd /usr/local/openfire/bin
+
+f:   ./openfire.sh
